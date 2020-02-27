@@ -1,0 +1,297 @@
+.header {
+  margin: 20px;
+}
+
+.header-content {
+  text-align: right;
+  display: inline-block;
+  text-transform: uppercase;
+}
+
+.logo {
+  text-align: left;
+  display: inline-block;
+  width: 55%;
+  margin-left: 100px;
+}
+
+.header-content-son {
+  margin-left: 10px;
+  font-weight: 600;
+  font-family: 'Karla';
+  font-size: 14px;
+  color:#8A898B;
+}
+.header-content-son:active{
+  color:#2E2546;
+}
+.header-content-son-button{
+  margin-left: 10px;
+  border-style: solid;
+  padding: 5px 25px;
+  border-width: 2px;
+  font-weight: 600;
+  font-family: 'Karla';
+  color: #36313A
+}
+.header-content-son-button:active{
+  background-color: #2E2546;
+  color:#FAFAFA;
+}
+
+.top-content {
+  position: absolute;
+  color: #FAFAFA;
+  width: 500px;
+  margin-left: 90px;
+  margin-top: 100px;
+  height: auto;
+}
+
+.top-header {
+  font-family: 'DM Serif Display';
+  font-weight: 400;
+  font-size: 62px;
+  line-height: 55px;
+  width: 450px;
+}
+
+.top-content2 {
+  margin-top: 15px;
+  line-height: 24px;
+  font-family: 'Karla';
+}
+
+.view-button {
+  margin-top: 20px;
+  border-style: solid;
+  padding: 5px 25px;
+  display:inline-block;
+  border-width:2px;
+  color: #FAFAFA;
+  text-transform: uppercase;
+  font-weight: 600;
+    font-family: 'Karla';
+}
+.view-button:active{
+  background-color: #FAFAFA;
+  color:#2E2546;
+}
+
+.top-container {
+  background-color: #2E2546;
+  padding-bottom: 500px;
+  padding-left: 50px;
+  margin: 0 -15px;
+}
+
+.top-picture {
+  position: absolute;
+  left: 650px;
+  top: 150px;
+}
+
+.tophr {
+  width: 120px;
+  border-top: 30px;
+  margin-bottom: 50px;
+}
+
+.resize {
+  width: 500px;
+  height: auto;
+}
+
+.mid-header {
+  margin-top: 350px;
+  margin-left: 100px;
+  margin-bottom: 75px;
+  font-family: 'DM Serif Display';
+  font-weight: 400;
+  font-size: 62px;
+  line-height: 55px;
+  width: 450px;
+  color: #36313A;
+}
+
+.bothr {
+  margin-bottom: 50px;
+  width: 120px;
+}
+
+.mid-content {
+  margin-left: 100px;
+}
+
+.mid-content-body {
+  font-family: 'Karla';
+  color: #837D87;
+}
+
+.mid-content-header {
+  margin-top: 15px;
+  margin-bottom: 23px;
+  font-family: 'DM Serif Display';
+  font-weight: 400;
+  font-size: 18px;
+  color: #36313A;
+}
+
+.process {
+  display: inline-block;
+  line-height: 2;
+  width: 30%;
+  vertical-align: top;
+}
+
+.price {
+  display: inline-block;
+  line-height: 2;
+  width: 30%;
+  vertical-align: top;
+}
+
+.people1 {
+  display: inline-block;
+  line-height: 2;
+  width: 30%;
+  vertical-align: top;
+}
+
+.mid-content2 {
+  color: #FAFAFA;
+  font-family: 'DM Serif Display';
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 55px;
+  width: 480px;
+  display: inline-block;
+}
+
+.mid-content2-par {
+  background-color: #2E2546;
+  padding: 70px;
+  margin: 200px 100px;
+}
+
+.hww-button {
+  display: inline-block;
+  border-style: solid;
+  border-width: 2px;
+  padding:5px 25px;
+  position: absolute;
+  margin-left: 235px;
+  margin-top:50px;
+  font-family: 'Karla';
+  font-weight: 600;
+  color: #FAFAFA;
+  text-transform: uppercase;
+
+}
+.hww-button:active{
+  background-color: #FAFAFA;
+  color:#2E2546;
+}
+
+a{
+  text-decoration: none;
+}
+
+.plus {
+  font-family: 'Karla';
+  font-weight: 600;
+}
+
+.company {
+  margin-left: 100px;
+  display: inline-block;
+  line-height: 2;
+  width: 22%;
+  vertical-align: top;
+}
+
+.help {
+  display: inline-block;
+  line-height: 2;
+  width: 22%;
+  vertical-align: top;
+}
+
+.contact {
+  display: inline-block;
+  line-height: 2;
+  width: 22%;
+  vertical-align: top;
+}
+
+.otherx {
+  display: inline-block;
+  line-height: 2;
+  width: 22%;
+  vertical-align: top;
+}
+
+.bot-container {
+  background-color: #FAFAFA;
+  margin-left: -5px;
+  margin-top: 50px;
+  margin-right: -5px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-transform: uppercase;
+}
+
+.bot-logo {
+  margin-left: 100px;
+  margin-right: 800px;
+  display: inline-block;
+}
+
+.contact-logo {
+  text-align: right;
+  display: inline-block;
+}
+
+.contact-logo-son {
+  margin-right: 10px;
+  opacity: 0.5;
+}
+.contact-logo-son:active{
+  opacity: 1;
+}
+
+.contact-container {
+  margin-bottom: 25px;
+}
+
+.plus-header {
+  color: #8A898B;
+}
+
+.plus-content {
+  color: #36313A;
+}
+.plus-content:active{
+  text-decoration: underline;
+}
+.pattern-top-left{
+  position: absolute;
+left: -135px;
+top: 230px;
+}
+.pattern-top-right{
+  position: absolute;
+  left:180px;
+  top: -87px;
+}
+.pattern-hww{
+  position: absolute;
+  left:721px;
+  bottom: -1253px;
+  pointer-events: none;
+}
+.pattern-footer{
+  position: absolute;
+top:2012px;
+pointer-events: none;
+}
